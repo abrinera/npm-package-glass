@@ -1,0 +1,41 @@
+{
+  "name": "@era/glassmorph",
+  "version": "1.0.0",
+  "description": "This is a component UI library for glassmorph button and card",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrinera/npm-package-glass.git"
+  },
+  "keywords": [
+    "glass",
+    "button",
+    "card",
+    "ui",
+    "library"
+  ],
+  "author": "abrinera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrinera/npm-package-glass/issues"
+  },
+  "homepage": "https://github.com/abrinera/npm-package-glass#readme",
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "tsup": "^8.5.1",
+    "typescript": "^6.0.2"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  }
+}
