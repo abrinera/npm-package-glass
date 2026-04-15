@@ -1,3 +1,5 @@
+import "./styles.css";
+
 export { GlassButton } from "./components/Button";
 export type { GlassButtonProps } from "./components/Button";
 

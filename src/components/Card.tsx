@@ -1,5 +1,4 @@
 import React from "react";
-import "../styles.css";
 
 export interface GlassCardProps extends React.HTMLAttributes<HTMLDivElement> {
   /**
