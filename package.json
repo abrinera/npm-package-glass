@@ -1,5 +1,5 @@
 {
-  "name": "@era/glassmorph",
+  "name": "@abrinera/glassmorph",
   "version": "1.0.0",
   "description": "This is a component UI library for glassmorph button and card",
   "main": "dist/index.js",
